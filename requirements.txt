@@ -1,1 +1,1 @@
-python-telegram-bot
+packguard_telegram_bot
